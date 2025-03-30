@@ -64,13 +64,103 @@ build CMakeFiles/2025.dir/main.cpp.obj: CXX_COMPILER__2025_scanned_Debug C$:/Use
   OBJECT_FILE_DIR = CMakeFiles\2025.dir
   dyndep = CMakeFiles/2025.dir/CXX.dd
 
-build CMakeFiles/2025.dir/0329_100.c.obj: C_COMPILER__2025_unscanned_Debug C$:/Users/turnt/C/2025/0329_100.c || cmake_object_order_depends_target_2025
-  DEP_FILE = CMakeFiles\2025.dir\0329_100.c.obj.d
+build CMakeFiles/2025.dir/0329_29.c.obj: C_COMPILER__2025_unscanned_Debug C$:/Users/turnt/C/2025/0329_29.c || cmake_object_order_depends_target_2025
+  DEP_FILE = CMakeFiles\2025.dir\0329_29.c.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\2025.dir
   OBJECT_FILE_DIR = CMakeFiles\2025.dir
 
-build CMakeFiles/2025.dir/CXX.dd | C$:/Users/turnt/C/2025/cmake-build-debug/CMakeFiles/2025.dir/CXXModules.json CMakeFiles/2025.dir/main.cpp.obj.modmap: CXX_DYNDEP__2025_Debug CMakeFiles/2025.dir/main.cpp.obj.ddi | C$:/Users/turnt/C/2025/cmake-build-debug/CMakeFiles/2025.dir/CXXDependInfo.json
+build CMakeFiles/2025.dir/0329_30.cpp.obj.ddi: CXX_SCAN__2025_Debug C$:/Users/turnt/C/2025/0329_30.cpp || cmake_object_order_depends_target_2025
+  DEP_FILE = CMakeFiles\2025.dir\0329_30.cpp.obj.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\2025.dir\0329_30.cpp.obj.ddi
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJ_FILE = CMakeFiles\2025.dir\0329_30.cpp.obj
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles\2025.dir\0329_30.cpp.obj.ddi.i
+
+build CMakeFiles/2025.dir/0329_30.cpp.obj: CXX_COMPILER__2025_scanned_Debug C$:/Users/turnt/C/2025/0329_30.cpp | CMakeFiles/2025.dir/0329_30.cpp.obj.modmap || cmake_object_order_depends_target_2025 CMakeFiles/2025.dir/CXX.dd
+  DEP_FILE = CMakeFiles\2025.dir\0329_30.cpp.obj.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles\2025.dir\0329_30.cpp.obj.modmap
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\2025.dir
+  OBJECT_FILE_DIR = CMakeFiles\2025.dir
+  dyndep = CMakeFiles/2025.dir/CXX.dd
+
+build CMakeFiles/2025.dir/0329_31.cpp.obj.ddi: CXX_SCAN__2025_Debug C$:/Users/turnt/C/2025/0329_31.cpp || cmake_object_order_depends_target_2025
+  DEP_FILE = CMakeFiles\2025.dir\0329_31.cpp.obj.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\2025.dir\0329_31.cpp.obj.ddi
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJ_FILE = CMakeFiles\2025.dir\0329_31.cpp.obj
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles\2025.dir\0329_31.cpp.obj.ddi.i
+
+build CMakeFiles/2025.dir/0329_31.cpp.obj: CXX_COMPILER__2025_scanned_Debug C$:/Users/turnt/C/2025/0329_31.cpp | CMakeFiles/2025.dir/0329_31.cpp.obj.modmap || cmake_object_order_depends_target_2025 CMakeFiles/2025.dir/CXX.dd
+  DEP_FILE = CMakeFiles\2025.dir\0329_31.cpp.obj.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles\2025.dir\0329_31.cpp.obj.modmap
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\2025.dir
+  OBJECT_FILE_DIR = CMakeFiles\2025.dir
+  dyndep = CMakeFiles/2025.dir/CXX.dd
+
+build CMakeFiles/2025.dir/0329_32.cpp.obj.ddi: CXX_SCAN__2025_Debug C$:/Users/turnt/C/2025/0329_32.cpp || cmake_object_order_depends_target_2025
+  DEP_FILE = CMakeFiles\2025.dir\0329_32.cpp.obj.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\2025.dir\0329_32.cpp.obj.ddi
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJ_FILE = CMakeFiles\2025.dir\0329_32.cpp.obj
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles\2025.dir\0329_32.cpp.obj.ddi.i
+
+build CMakeFiles/2025.dir/0329_32.cpp.obj: CXX_COMPILER__2025_scanned_Debug C$:/Users/turnt/C/2025/0329_32.cpp | CMakeFiles/2025.dir/0329_32.cpp.obj.modmap || cmake_object_order_depends_target_2025 CMakeFiles/2025.dir/CXX.dd
+  DEP_FILE = CMakeFiles\2025.dir\0329_32.cpp.obj.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles\2025.dir\0329_32.cpp.obj.modmap
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\2025.dir
+  OBJECT_FILE_DIR = CMakeFiles\2025.dir
+  dyndep = CMakeFiles/2025.dir/CXX.dd
+
+build CMakeFiles/2025.dir/0329_33.cpp.obj.ddi: CXX_SCAN__2025_Debug C$:/Users/turnt/C/2025/0329_33.cpp || cmake_object_order_depends_target_2025
+  DEP_FILE = CMakeFiles\2025.dir\0329_33.cpp.obj.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\2025.dir\0329_33.cpp.obj.ddi
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJ_FILE = CMakeFiles\2025.dir\0329_33.cpp.obj
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles\2025.dir\0329_33.cpp.obj.ddi.i
+
+build CMakeFiles/2025.dir/0329_33.cpp.obj: CXX_COMPILER__2025_scanned_Debug C$:/Users/turnt/C/2025/0329_33.cpp | CMakeFiles/2025.dir/0329_33.cpp.obj.modmap || cmake_object_order_depends_target_2025 CMakeFiles/2025.dir/CXX.dd
+  DEP_FILE = CMakeFiles\2025.dir\0329_33.cpp.obj.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles\2025.dir\0329_33.cpp.obj.modmap
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\2025.dir
+  OBJECT_FILE_DIR = CMakeFiles\2025.dir
+  dyndep = CMakeFiles/2025.dir/CXX.dd
+
+build CMakeFiles/2025.dir/032934.cpp.obj.ddi: CXX_SCAN__2025_Debug C$:/Users/turnt/C/2025/032934.cpp || cmake_object_order_depends_target_2025
+  DEP_FILE = CMakeFiles\2025.dir\032934.cpp.obj.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\2025.dir\032934.cpp.obj.ddi
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJ_FILE = CMakeFiles\2025.dir\032934.cpp.obj
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles\2025.dir\032934.cpp.obj.ddi.i
+
+build CMakeFiles/2025.dir/032934.cpp.obj: CXX_COMPILER__2025_scanned_Debug C$:/Users/turnt/C/2025/032934.cpp | CMakeFiles/2025.dir/032934.cpp.obj.modmap || cmake_object_order_depends_target_2025 CMakeFiles/2025.dir/CXX.dd
+  DEP_FILE = CMakeFiles\2025.dir\032934.cpp.obj.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles\2025.dir\032934.cpp.obj.modmap
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\2025.dir
+  OBJECT_FILE_DIR = CMakeFiles\2025.dir
+  dyndep = CMakeFiles/2025.dir/CXX.dd
+
+build CMakeFiles/2025.dir/0331_1.cpp.obj.ddi: CXX_SCAN__2025_Debug C$:/Users/turnt/C/2025/0331_1.cpp || cmake_object_order_depends_target_2025
+  DEP_FILE = CMakeFiles\2025.dir\0331_1.cpp.obj.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\2025.dir\0331_1.cpp.obj.ddi
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJ_FILE = CMakeFiles\2025.dir\0331_1.cpp.obj
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles\2025.dir\0331_1.cpp.obj.ddi.i
+
+build CMakeFiles/2025.dir/0331_1.cpp.obj: CXX_COMPILER__2025_scanned_Debug C$:/Users/turnt/C/2025/0331_1.cpp | CMakeFiles/2025.dir/0331_1.cpp.obj.modmap || cmake_object_order_depends_target_2025 CMakeFiles/2025.dir/CXX.dd
+  DEP_FILE = CMakeFiles\2025.dir\0331_1.cpp.obj.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles\2025.dir\0331_1.cpp.obj.modmap
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\2025.dir
+  OBJECT_FILE_DIR = CMakeFiles\2025.dir
+  dyndep = CMakeFiles/2025.dir/CXX.dd
+
+build CMakeFiles/2025.dir/CXX.dd | C$:/Users/turnt/C/2025/cmake-build-debug/CMakeFiles/2025.dir/CXXModules.json CMakeFiles/2025.dir/main.cpp.obj.modmap CMakeFiles/2025.dir/0329_30.cpp.obj.modmap CMakeFiles/2025.dir/0329_31.cpp.obj.modmap CMakeFiles/2025.dir/0329_32.cpp.obj.modmap CMakeFiles/2025.dir/0329_33.cpp.obj.modmap CMakeFiles/2025.dir/032934.cpp.obj.modmap CMakeFiles/2025.dir/0331_1.cpp.obj.modmap: CXX_DYNDEP__2025_Debug CMakeFiles/2025.dir/main.cpp.obj.ddi CMakeFiles/2025.dir/0329_30.cpp.obj.ddi CMakeFiles/2025.dir/0329_31.cpp.obj.ddi CMakeFiles/2025.dir/0329_32.cpp.obj.ddi CMakeFiles/2025.dir/0329_33.cpp.obj.ddi CMakeFiles/2025.dir/032934.cpp.obj.ddi CMakeFiles/2025.dir/0331_1.cpp.obj.ddi | C$:/Users/turnt/C/2025/cmake-build-debug/CMakeFiles/2025.dir/CXXDependInfo.json
 
 
 # =============================================================================
@@ -80,7 +170,7 @@ build CMakeFiles/2025.dir/CXX.dd | C$:/Users/turnt/C/2025/cmake-build-debug/CMak
 #############################################
 # Link the executable 2025.exe
 
-build 2025.exe: CXX_EXECUTABLE_LINKER__2025_Debug CMakeFiles/2025.dir/main.cpp.obj CMakeFiles/2025.dir/0329_100.c.obj
+build 2025.exe: CXX_EXECUTABLE_LINKER__2025_Debug CMakeFiles/2025.dir/main.cpp.obj CMakeFiles/2025.dir/0329_29.c.obj CMakeFiles/2025.dir/0329_30.cpp.obj CMakeFiles/2025.dir/0329_31.cpp.obj CMakeFiles/2025.dir/0329_32.cpp.obj CMakeFiles/2025.dir/0329_33.cpp.obj CMakeFiles/2025.dir/032934.cpp.obj CMakeFiles/2025.dir/0331_1.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\2025.dir
