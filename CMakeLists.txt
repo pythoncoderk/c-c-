@@ -18,4 +18,11 @@ add_executable(2025 main.cpp
         0401_3.cpp
         0402_1.cpp
         0402_2.cpp
-        0402_3.cpp)
+        0402_3.cpp
+        0403_1.cpp
+        0403_2.cpp
+        0403_3.cpp
+        0403_4.cpp
+        0403_5.cpp
+        0403_6.cpp
+        0403_7.cpp)
