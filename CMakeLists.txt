@@ -89,4 +89,13 @@ add_executable(2025 main.cpp
         0416_1.cpp
         0416_2.cpp
         0416_3.cpp
-        0416_4.cpp)
+        0416_4.cpp
+        0417_1.cpp
+        0417_2.cpp
+        0417_3.cpp
+        0417_4.cpp
+        0417_5.cpp
+        0417_6.cpp
+        0417_7.cpp
+        0417_8.cpp
+        0417_9.cpp)
