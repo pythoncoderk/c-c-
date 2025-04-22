@@ -147,4 +147,14 @@ add_executable(2025 main.cpp
         0422_4.cpp
         0422_5.cpp
         0422_6.cpp
-        0422_7.cpp)
+        0422_7.cpp
+        0423_1.cpp
+        0423_2.cpp
+        0423_3.cpp
+        0423_4.cpp
+        0423_5.cpp
+        0423_6.cpp
+        0423_7.cpp
+        0423_8.cpp
+        0423_9.cpp
+        0423_10.cpp)
