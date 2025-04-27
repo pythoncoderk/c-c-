@@ -184,4 +184,11 @@ add_executable(2025 main.cpp
         0426_2.cpp
         0426_3.cpp
         0426_4.cpp
-        0426_5.cpp)
+        0426_5.cpp
+        0428_1.cpp
+        0428_2.cpp
+        0428_3.cpp
+        0428_4.cpp
+        0428_5.cpp
+        0428_6.cpp
+        0428_7.cpp)
