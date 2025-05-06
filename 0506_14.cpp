@@ -2,10 +2,10 @@
 using namespace std;
 
 int main() {
-    int x;
-    cin >> x;
+    int n;
+    cin >> n;
 
-    if ((x & (x - 1)) == 0) {
+    if ((n & (n - 1)) == 0) {
         cout << "OK" << endl;
     }
     else {
