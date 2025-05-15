@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    int n, m;
-    cin >> n >> m;
-    cout << n % m << endl;
+    int n;
+    cin >> n;
+    cout << 100 + n * 10 << endl;
 }
