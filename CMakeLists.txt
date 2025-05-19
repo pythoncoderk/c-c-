@@ -390,4 +390,7 @@ add_executable(2025 main.cpp
         0519_5.cpp
         0519_6.cpp
         0519_7.cpp
-        0519_8.cpp)
+        0519_8.cpp
+        0520_1.cpp
+        0520_2.cpp
+        0520_3.cpp)
