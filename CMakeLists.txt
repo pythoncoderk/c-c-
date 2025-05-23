@@ -406,4 +406,12 @@ add_executable(2025 main.cpp
         0522_1.cpp
         0522_2.cpp
         0522_3.cpp
-        0522_4.cpp)
+        0522_4.cpp
+        0523_1.cpp
+        0523_2.cpp
+        0524_1.cpp
+        0524_2.cpp
+        0524_3.cpp
+        0524_4.cpp
+        0524_5.cpp
+        0524_6.cpp)
