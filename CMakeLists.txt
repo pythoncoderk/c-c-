@@ -531,4 +531,6 @@ add_executable(2025 main.cpp
         0609_6.cpp
         0610_1.cpp
         0610_2.cpp
-        0610_3.cpp)
+        0610_3.cpp
+        0611_1.cpp
+        0611_2.cpp)
