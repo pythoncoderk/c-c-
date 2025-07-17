@@ -4,8 +4,7 @@ using namespace std;
 int main() {
     int n;
     cin >> n;
-    float x = log2(n);
-    if (x == pow(2, x)) {
+    if ((n & (n - 1)) == 0) {
         cout << "OK" << endl;
     }
     else {
