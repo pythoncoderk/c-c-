@@ -813,4 +813,10 @@ add_executable(2025 main.cpp
         0722_6.cpp
         0722_7.cpp
         0722_8.cpp
-        0722_9.cpp)
+        0722_9.cpp
+        0723_1.cpp
+        0723_2.cpp
+        0723_3.cpp
+        0723_4.cpp
+        0723_5.cpp
+        0723_6.cpp)
