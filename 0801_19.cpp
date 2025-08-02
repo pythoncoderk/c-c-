@@ -14,7 +14,6 @@ int main() {
         else {
             cout << s << ".";
         }
-
     }
     cout << endl;
 }
