@@ -993,4 +993,6 @@ add_executable(2025 main.cpp
         0805_11.cpp
         0805_12.cpp
         0805_13.cpp
-        0805_14.cpp)
+        0805_14.cpp
+        0805_15.cpp
+        0805_16.cpp)
