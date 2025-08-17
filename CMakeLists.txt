@@ -1017,4 +1017,6 @@ add_executable(2025 main.cpp
         0817_3.cpp
         0817_4.cpp
         0817_5.cpp
-        0817_6.cpp)
+        0817_6.cpp
+        0818_1.cpp
+        0818_2.cpp)
