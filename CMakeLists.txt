@@ -1058,4 +1058,5 @@ add_executable(2025 main.cpp
         0904_2.cpp
         0906_1.cpp
         0906_2.cpp
-        0908_1.cpp)
+        0908_1.cpp
+        0908_2.cpp)
