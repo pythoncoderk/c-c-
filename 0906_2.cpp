@@ -6,9 +6,9 @@ int main() {
     cin >> s;
     string ans;
 
-    for (int i = 0; i < s.size(); i++) {
-        if (s[i] == '2') {
-            ans += s[i];
+    for (char i : s) {
+        if (i == '2') {
+            ans += i;
         }
     }
     cout << ans << endl;
