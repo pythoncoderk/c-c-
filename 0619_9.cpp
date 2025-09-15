@@ -1,7 +1,0 @@
-#include <bits/stdc++.h>
-using namespace std;
-
-int main() {
-    string x = "hello";
-    cout << x.at(10) << endl;
-}
