@@ -1103,4 +1103,5 @@ add_executable(2025 main.cpp
         1011_1.cpp
         1012_1.cpp
         1013_1.cpp
-        1014_1.cpp)
+        1014_1.cpp
+        1015_1.cpp)
