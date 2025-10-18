@@ -1125,4 +1125,11 @@ add_executable(2025 main.cpp
         1018_16.cpp
         1018_17.cpp
         1018_18.cpp
-        1018_19.cpp)
+        1018_19.cpp
+        1019_1.cpp
+        1019_2.cpp
+        1019_3.cpp
+        1019_4.cpp
+        1019_5.cpp
+        1019_6.cpp
+        1019_7.cpp)
