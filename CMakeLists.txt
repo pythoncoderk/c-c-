@@ -1180,4 +1180,12 @@ add_executable(2025 main.cpp
         1027_14.cpp
         1027_15.cpp
         1027_16.cpp
-        1027_17.cpp)
+        1027_17.cpp
+        1028.cpp
+        1028_1.cpp
+        1028_2.cpp
+        1028_3.cpp
+        1028_4.cpp
+        1028_5.cpp
+        1028_6.cpp
+        1028_7.cpp)
