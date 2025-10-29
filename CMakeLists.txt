@@ -1199,4 +1199,5 @@ add_executable(2025 main.cpp
         1029_8.cpp
         1029_9.cpp
         1029_10.cpp
-        1029_11.cpp)
+        1029_11.cpp
+        1030_1.cpp)
