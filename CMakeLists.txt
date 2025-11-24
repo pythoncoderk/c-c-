@@ -1279,4 +1279,15 @@ add_executable(2025 main.cpp
         1121_7.cpp
         1121_8.cpp
         1123_1.cpp
-        1123_2.cpp)
+        1123_2.cpp
+        1124_1.cpp
+        1124_2.cpp
+        1124_3.cpp
+        1124_4.cpp
+        1124_5.cpp
+        1124_6.cpp
+        1124_7.cpp
+        1124_8.cpp
+        1124_9.cpp
+        1124_10.cpp
+        1124_11.cpp)
