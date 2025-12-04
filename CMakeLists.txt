@@ -1450,4 +1450,14 @@ add_executable(2025 main.cpp
         1204_2.cpp
         1204_3.cpp
         1204_4.cpp
-        1204_5.cpp)
+        1204_5.cpp
+        1205_1.cpp
+        1205_2.cpp
+        1205_3.cpp
+        1205_4.cpp
+        1205_5.cpp
+        1205_6.cpp
+        1205_7.cpp
+        1205_8.cpp
+        1205_9.cpp
+        1205_10.cpp)
