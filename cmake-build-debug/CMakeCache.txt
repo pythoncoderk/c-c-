@@ -163,6 +163,9 @@ CMAKE_OBJCOPY:FILEPATH=C:/Program Files/mingw64/bin/objcopy.exe
 CMAKE_OBJDUMP:FILEPATH=C:/Program Files/mingw64/bin/objdump.exe
 
 //Value Computed by CMake
+CMAKE_PROJECT_COMPAT_VERSION:STATIC=
+
+//Value Computed by CMake
 CMAKE_PROJECT_DESCRIPTION:STATIC=
 
 //Value Computed by CMake
@@ -268,7 +271,7 @@ CMAKE_CACHEFILE_DIR:INTERNAL=c:/Users/turnt/C/2025/cmake-build-debug
 //Major version of cmake used to create the current loaded cache
 CMAKE_CACHE_MAJOR_VERSION:INTERNAL=4
 //Minor version of cmake used to create the current loaded cache
-CMAKE_CACHE_MINOR_VERSION:INTERNAL=0
+CMAKE_CACHE_MINOR_VERSION:INTERNAL=1
 //Patch version of cmake used to create the current loaded cache
 CMAKE_CACHE_PATCH_VERSION:INTERNAL=2
 //Path to CMake executable.
@@ -386,7 +389,7 @@ CMAKE_RC_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_READELF
 CMAKE_READELF-ADVANCED:INTERNAL=1
 //Path to CMake installation.
-CMAKE_ROOT:INTERNAL=C:/Program Files/JetBrains/CLion 2024.3.5/bin/cmake/win/x64/share/cmake-4.0
+CMAKE_ROOT:INTERNAL=C:/Program Files/JetBrains/CLion 2024.3.5/bin/cmake/win/x64/share/cmake-4.1
 //ADVANCED property for variable: CMAKE_SHARED_LINKER_FLAGS
 CMAKE_SHARED_LINKER_FLAGS-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_SHARED_LINKER_FLAGS_DEBUG
