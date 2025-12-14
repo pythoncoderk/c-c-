@@ -1522,4 +1522,15 @@ add_executable(2025 main.cpp
         1213_1.cpp
         1213_2.cpp
         1213_3.cpp
-        1213_4.cpp)
+        1213_4.cpp
+        1213_5.cpp
+        1213_6.cpp
+        1214_1.cpp
+        1214_2.cpp
+        1215_1.cpp
+        1215_2.cpp
+        1215_3.cpp
+        1215_4.cpp
+        1215_5.cpp
+        1215_6.cpp
+        1215_7.cpp)
