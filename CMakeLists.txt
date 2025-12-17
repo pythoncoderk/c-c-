@@ -1547,4 +1547,6 @@ add_executable(2025 main.cpp
         1217_3.cpp
         1217_4.cpp
         1217_5.cpp
-        1217_6.cpp)
+        1217_6.cpp
+        1217_7.cpp
+        1217_8.cpp)
