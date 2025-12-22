@@ -4,6 +4,5 @@ using namespace std;
 int main() {
     int n, m;
     cin >> n >> m;
-    if (n + m >= 16) cout << "STAND" << endl;
-    else cout << "HIT" << endl;
+    cout << n * 6000 + m * 4000 << endl;
 }
